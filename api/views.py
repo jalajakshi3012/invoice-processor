@@ -16,12 +16,12 @@ import datetime
 import mysql.connector
 
 
-hostname = 'database-1.cw1jgcwhmrol.us-east-1.rds.amazonaws.com'
+hostname = 'python-app-rds-instance.cdpa302augqw.us-east-1.rds.amazonaws.com'
 username = 'admin'
-password = '1123581321'
+password = 'password'
 database = 'testgldb2'
 
-s3_target_bucket = 'awstargetbucketgl'
+s3_target_bucket = 'doc-processor-source-invoice-bucket-nov-2024-jalajakshi '
 
 
 # *******************************************************************************************************************
